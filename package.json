@@ -4,7 +4,7 @@
   "description": "_Esta base de datos está compuesta por las siguientes tablas_\r - Artistas\r - Canciones\r - Albumes\r - Generos",
   "main": "index.js",
   "scripts": {
-    "dev": "node app.js"
+    "dev": "nodemon src/app.js"
   },
   "keywords": [],
   "author": "",
