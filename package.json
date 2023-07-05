@@ -1,0 +1,20 @@
+{
+  "name": "musicando",
+  "version": "1.0.0",
+  "description": "_Esta base de datos está compuesta por las siguientes tablas_\r - Artistas\r - Canciones\r - Albumes\r - Generos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.4.4",
+    "sequelize": "^6.32.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
